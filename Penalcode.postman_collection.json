@@ -1,0 +1,114 @@
+{
+	"info": {
+		"_postman_id": "cdb70b7e-ff76-4389-81e4-086b69b14241",
+		"name": "Penalcode",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Appoint Byid",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n        \"law_type\":\"criminal law\", \r\n          \"lawyer_type\":\"criminal lawyer\",\r\n          \"name\" :\"Noor\" ,\r\n          \"email\":\"noorulsiraj97@gmail.com\" ,\r\n          \"phone\":\"9677909469\" , \r\n          \"appointment_date\":\"26/12/2022\"  ,\r\n          \"appointment_time \":\"12.00 pm\" ,\r\n          \"city\":\"Tanjore\"  ,\r\n          \"state\":\" Tamilnadu\" ,\r\n          \"message\":\"Hi sir \"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/api/penalcode/appointment/get?id=1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"penalcode",
+						"appointment",
+						"get"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Appoint GetAll",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n        \"law_type\":\"criminal law\", \r\n          \"lawyer_type\":\"criminal lawyer\",\r\n          \"name\" :\"Noor\" ,\r\n          \"email\":\"noorulsiraj97@gmail.com\" ,\r\n          \"phone\":\"9677909469\" , \r\n          \"appointment_date\":\"26/12/2022\"  ,\r\n          \"appointment_time \":\"12.00 pm\" ,\r\n          \"city\":\"Tanjore\"  ,\r\n          \"state\":\" Tamilnadu\" ,\r\n          \"message\":\"Hi sir \"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/api/penalcode/appointment/getAll",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"penalcode",
+						"appointment",
+						"getAll"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Appoint creation",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n        \"law_type\":\"criminal law\", \r\n          \"lawyer_type\":\"criminal lawyer\",\r\n          \"name\" :\"Noor\" ,\r\n          \"email\":\"noorulsiraj97@gmail.com\" ,\r\n          \"phone\":\"9677909469\" , \r\n          \"appointment_date\":\"26/12/2022\"  ,\r\n          \"appointment_time \":\"12.00 pm\" ,\r\n          \"city\":\"Tanjore\"  ,\r\n          \"state\":\" Tamilnadu\" ,\r\n          \"message\":\"Hi sir \"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/api/penalcode/appointment/create",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"penalcode",
+						"appointment",
+						"create"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

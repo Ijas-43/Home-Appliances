@@ -1,0 +1,558 @@
+{
+
+  "productList": [
+    {
+      "id": 1,
+      "category": "furniture",
+      "review": "2000 reviews",
+      "title": "Table",
+      "detail": "Solid Coffee Table",
+      "image": "/assets/furniture/f1.jpg",
+      "price": 17013
+    },
+	 {
+      "id": 2,
+      "category": "kitchen",
+      "review": "1000 reviews",
+      "title": "Vegetable Cutter",
+      "detail": "5 in 1  Vegetable Cutter",
+      "image": "/assets/kitchen/k1.jpg",
+      "price": 599
+    },
+	 {
+      "id": 3,
+      "category": "electronics",
+      "key": "value",
+      "review": "50،000 reviews",
+      "title": "TV",
+      "detail": "Sony LED Tv",
+      "image": "/assets/electronics/e1.jpg",
+      "price": 32000
+    },
+	  {
+      "id": 4,
+      "category": "furniture",
+      "key": "value",
+      "review": "3000 reviews",
+      "title": "Tv Stand",
+      "detail": "Wooden Wall Tv Unit",
+      "image": "/assets/furniture/f2.jpg",
+      "price": 12300
+    },
+	   {
+      "id": 5,
+      "category": "kitchen",
+      "review": "2000 reviews",
+      "title": "Mixi",
+      "detail": "Baltra Promo Mixi",
+      "image": "/assets/kitchen/k2.jpg",
+      "price": 399
+    },
+	  {
+      "id": 6,
+      "category": "electronics",
+      "review": "2000 reviews",
+      "title": "Fan",
+      "detail": "Philips Ceiling Fan",
+      "image": "/assets/electronics/e2.jpg",
+      "price": 3000
+    },
+	  {
+      "id": 7,
+      "category": "furniture",
+      "review": "1000 reviews",
+      "title": "Mirror",
+      "detail": "Standing Mirror",
+      "image": "/assets/furniture/f3.jpg",
+      "price": 6880
+    },
+	 {
+      "id": 8,
+      "category": "kitchen",
+      "review": "3000 reviews",
+      "title": "Pan",
+      "detail": "Sauce Pan",
+      "image": "/assets/kitchen/k3.jpg",
+      "price": 549
+    },
+	{
+      "id": 9,
+      "category": "electronics",
+      "review": "20,000 reviews",
+      "title": "Washing Machine",
+      "detail": "LG Washing Machine",
+      "image": "/assets/electronics/e3.jpg",
+      "price": 5000
+    },
+	  {
+      "id": 10,
+      "category": "furniture",
+      "review": "2500 reviews",
+      "title": "Table",
+      "detail": "End Table",
+      "image": "/assets/furniture/f4.webp",
+      "price": 13813
+    },
+	   {
+      "id": 11,
+      "category": "kitchen",
+      "review": "2000 reviews",
+      "title": "container",
+      "detail": "Food Storage Container",
+      "image": "/assets/kitchen/k4.jpg",
+      "price": 199
+    },
+	  {
+      "id": 12,
+      "category": "electronics",
+      "review": "30,000 reviews",
+      "title": "AC",
+      "detail": "Voltas Ac",
+      "image": "/assets/electronics/e4.jpg",
+      "price": 35000
+    },
+	 {
+      "id": 13,
+      "category": "furniture",
+      "key": "value",
+      "review": "4000 reviews",
+      "title": "Bed",
+      "detail": "King Size Bed",
+      "image": "/assets/furniture/f5.webp",
+      "price": 34950
+    },
+	   {
+      "id": 14,
+      "category": "kitchen",
+      "key": "value",
+      "review": "5000 reviews",
+      "title": "Juicer",
+      "detail": "Manual Citrus Juicer",
+      "image": "/assets/kitchen/k5.jpg",
+      "price": 349
+    },
+	   {
+      "id": 15,
+      "category": "electronics",
+      "review": "2000 reviews",
+      "title": "Stabilizer",
+      "detail": "Microtek Stabilizer",
+      "image": "/assets/electronics/e5.webp",
+      "price": 2000
+    },
+	 {
+      "id": 16,
+      "category": "furniture",
+      "review": "1200 reviews",
+      "title": "Table",
+      "detail": "Dining Table",
+      "image": "/assets/furniture/f6.webp",
+      "price": 23300
+    },
+	  {
+      "id": 17,
+      "category": "kitchen",
+      "review": "6000 reviews",
+      "title": "Dispenser",
+      "detail": "Automatic Soap Dispenser",
+      "image": "/assets/kitchen/k6.jpg",
+      "price": 249
+    },
+	 {
+      "id": 18,
+      "category": "electronics",
+      "review": "3000 reviews",
+      "title": "Fridge",
+      "detail": "Samsung Fridge",
+      "image": "/assets/electronics/e6.jfif",
+      "price": 13000
+    },
+	  {
+      "id": 19,
+      "category": "furniture",
+      "review": "20,000 reviews",
+      "title": "Hutch",
+      "detail": "Quadro Buffet Hutch",
+      "image": "/assets/furniture/f7.webp",
+      "price": 27755
+    },
+	    {
+      "id": 20,
+      "category": "kitchen",
+      "review": "2000 reviews",
+      "title": "Bowl",
+      "detail": "Hammered Copper Bowl",
+      "image": "/assets/kitchen/k7.jpg",
+      "price": 250
+    },
+	 {
+      "id": 21,
+      "category": "electronics",
+      "review": "4000 reviews",
+      "title": "Toaster",
+      "detail": "Pigeon 2slice Toaster",
+      "image": "/assets/electronics/e7.jpg",
+      "price": 1199
+    },
+	 {
+      "id": 22,
+      "category": "furniture",
+      "review": "3000 reviews",
+      "title": "Desk",
+      "detail": "Quadro Study  Desk",
+      "image": "/assets/furniture/f8.webp",
+      "price": 13500
+    },
+	  {
+      "id": 23,
+      "category": "kitchen",
+      "key": "value",
+      "review": "2000 reviews",
+      "title": "Bucket",
+      "detail": "Double Spin Bucket Mop",
+      "image": "/assets/kitchen/k8.jpg",
+      "price": 349
+    },
+	  {
+      "id": 24,
+      "category": "electronics",
+      "key": "value",
+      "review": "5000 reviews",
+      "title": "Dishwasher",
+      "detail": "Reliance Dishwasher",
+      "image": "/assets/electronics/e8.png",
+      "price": 15000
+    },
+	 {
+      "id": 25,
+      "category": "furniture",
+      "review": "7000 reviews",
+      "title": "Cabinet",
+      "detail": "Helios Storagr Cabinet",
+      "image": "/assets/furniture/f9.webp",
+      "price":5000
+    },
+	  {
+      "id": 26,
+      "category": "kitchen",
+      "review": "9000 reviews",
+      "title": "Carousal Stand",
+      "detail": "Revolving Masala Stand",
+      "image": "/assets/kitchen/k9.jpg",
+      "price": 199
+    },
+	  {
+      "id": 27,
+      "category": "electronics",
+      "review": "8400 reviews",
+      "title": "Home Theater",
+      "detail": "Samsung Home Theater",
+      "image": "/assets/electronics/e9.jpg",
+      "price": 25000
+    },
+	    {
+      "id": 28,
+      "category": "furniture",
+      "review": "1000 reviews",
+      "title": "Cabinet",
+      "detail": "Lewis Shoe Cabinet",
+      "image": "/assets/furniture/f10.webp",
+      "price": 29900
+    },
+	   {
+      "id": 29,
+      "category": "kitchen",
+      "review": "2000 reviews",
+      "title": "Baseket",
+      "detail": "Apple Shape Baseket",
+      "image": "/assets/kitchen/k10.jpg",
+      "price": 199
+    },
+	   {
+      "id": 30,
+      "category": "electronics",
+      "review": "2500 reviews",
+      "title": "Camera",
+      "detail": "Home Security Camera",
+      "image": "/assets/electronics/e10.jpg",
+      "price": 2999
+    },
+	  {
+      "id": 31,
+      "category": "furniture",
+      "review": "5000 reviews",
+      "title": "Table",
+      "detail": "Lewis Dressing Table",
+      "image": "/assets/furniture/f11.webp",
+      "price": 16500
+    },
+    {
+      "id": 32,
+      "category": "furniture",
+      "review": "8000 reviews",
+      "title": "Wardrobe",
+      "detail": "Arvis 3 Door Wardrobe",
+      "image": "/assets/furniture/f12.webp",
+      "price": 21000
+    },
+	 {
+      "id": 33,
+      "category": "kitchen",
+      "review": "500 reviews",
+      "key": "value",
+      "title": "Plate",
+      "detail": "Baking Plate",
+      "image": "/assets/kitchen/k11.jpg",
+      "price": 199
+    },
+    {
+      "id": 34,
+      "category": "kitchen",
+      "key": "value",
+      "review": "100 reviews",
+      "title": "container",
+      "detail": "Food Storage Container",
+      "image": "/assets/kitchen/k12.jpg",
+      "price":249
+    },
+	  {
+      "id": 35,
+      "category": "electronics",
+      "review": "4500 reviews",
+      "title": "Kettle",
+      "detail": "Pigeon Kettle",
+      "image": "/assets/electronics/e11.jpg",
+      "price": 736
+    },
+    {
+      "id": 36,
+      "category": "electronics",
+      "review": "3200 reviews",
+      "title": "Dish",
+      "detail": "Airtel DTH SetTop Box",
+      "image": "/assets/electronics/e12.jpg",
+      "price": 1899
+    },
+	 {
+      "id": 37,
+      "category": "furniture",
+      "review": "3000 reviews",
+      "title": "Tv Unit",
+      "detail": "Celestin Tv Unit",
+      "image": "/assets/furniture/f13.jpg",
+      "price": 15000
+    },
+    {
+      "id": 38,
+      "category": "furniture",
+      "review": "2000 reviews",
+      "title": "Bed",
+      "detail": "Lewis Single Bed",
+      "image": "/assets/furniture/f14.jpg",
+      "price": 5000
+    },
+	 {
+      "id": 39,
+      "category": "kitchen",
+      "review": "200 reviews",
+      "title": "Bowl",
+      "detail": "Copper Bowl",
+      "image": "/assets/kitchen/k13.jpg",
+      "price": 249
+    },
+    {
+      "id": 40,
+      "category": "kitchen",
+      "review": "300 reviews",
+      "title": "Scissors",
+      "detail": "5 Layer Scissors",
+      "image": "/assets/kitchen/k14.jpg",
+      "price": 149
+    },
+	  {
+      "id": 41,
+      "category": "electronics",
+      "review": "1230 reviews",
+      "title": "Vaccum Cleaner",
+      "detail": "Philips PowerPro",
+      "image": "/assets/electronics/e13.jpg",
+      "price": 8399
+    },
+    {
+      "id": 42,
+      "category": "electronics",
+      "review": "2000 reviews",
+      "title": "Lamp",
+      "detail": "Desk Lamp LED",
+      "image": "/assets/electronics/e14.jpg",
+      "price": 629
+    },
+	  {
+      "id": 43,
+      "category": "furniture",
+      "key": "value",
+      "review": "5000 reviews",
+      "title": "Book Self",
+      "detail": "Iwaki Book Self",
+      "image": "/assets/furniture/f15.jpg",
+      "price": 15000
+    },
+    {
+      "id": 44,
+      "category": "furniture",
+      "key": "value",
+      "review": "1000 reviews",
+      "title": "Chair",
+      "detail": "Martin Rocking Chair",
+      "image": "/assets/furniture/f16.jpg",
+      "price": 5000
+    },
+	  {
+      "id": 45,
+      "category": "kitchen",
+      "review": "400 reviews",
+      "title": "Pot",
+      "detail": "Cooking Pot",
+      "image": "/assets/kitchen/k15.png",
+      "price": 412
+    },
+    {
+      "id": 46,
+      "category": "kitchen",
+      "review": "600 reviews",
+      "title": "Cup",
+      "detail": "Miro Cup Set 6pcs",
+      "image": "/assets/kitchen/k16.jpg",
+      "price": 249
+    },
+	 {
+      "id": 47,
+      "category": "electronics",
+      "review": "2089 reviews",
+      "title": "Mixer",
+      "detail": "Inalsa Stand Mixer",
+      "image": "/assets/electronics/e15.jpg",
+      "price": 12999
+    },
+    {
+      "id": 48,
+      "category": "electronics",
+      "review": "4534 reviews",
+      "title": "Table Fan",
+      "detail": "High Speed Fan",
+      "image": "/assets/electronics/e16.jpg",
+      "price": 1040
+    },
+
+    {
+      "id": 49,
+      "category": "furniture",
+      "review": "9000 reviews",
+      "title": "Board",
+      "detail": "Gaku Sideboard",
+      "image": "/assets/furniture/f17.jpg",
+      "price": 35000
+    },
+    {
+      "id": 50,
+      "category": "furniture",
+      "review": "2000 reviews",
+      "title": "Table",
+      "detail": "Helona Console Table",
+      "image": "/assets/furniture/f18.jpg",
+      "price": 19999
+    },
+	  {
+      "id": 51,
+      "category": "kitchen",
+      "review": "700 reviews",
+      "title": "Mop",
+      "detail": "Spin Mop",
+      "image": "/assets/kitchen/k17.jpg",
+      "price": 299
+    },
+    {
+      "id": 52,
+      "category": "kitchen",
+      "review": "800 reviews",
+      "title": "Tea Set",
+      "detail": "Cactus Tea Set",
+      "image": "/assets/kitchen/k18.png",
+      "price": 499
+    },
+	 {
+      "id": 53,
+      "category": "electronics",
+      "key": "value",
+      "review": "3400 reviews",
+      "title": "Safe Locker",
+      "detail": "Valencia digital security ",
+      "image": "/assets/electronics/e17.jpg",
+      "price": 5999
+    },
+    {
+      "id": 54,
+      "category": "electronics",
+      "key": "value",
+      "review": "20,000 reviews",
+      "title": "Computer",
+      "detail": "DELL 15.6inch ",
+      "image": "/assets/electronics/e18.jpg",
+      "price": 14500
+    },
+	  {
+      "id": 55,
+      "category": "furniture",
+      "review": "8000 reviews",
+      "title": "Desk",
+      "detail": "Wallace Study Desk",
+      "image": "/assets/furniture/f19.jpg",
+      "price": 8499
+    },
+    {
+      "id": 56,
+      "category": "furniture",
+      "review": "9000 reviews",
+      "title": "Drawers",
+      "detail": "Walter Chest Drawers",
+      "image": "/assets/furniture/f20.jpg",
+      "price": 13999
+    },
+     {
+      "id": 57,
+      "category": "kitchen",
+      "review": "2000 reviews",
+      "title": "Jar Set",
+      "detail": "Ceramic Spice Jar set",
+      "image": "/assets/kitchen/k19.jpg",
+      "price": 599
+    },
+    {
+      "id": 58,
+      "category": "kitchen",
+      "review": "2000 reviews",
+      "title": "Cooking Spoon",
+      "detail": "Woodern Serving Spoon",
+      "image": "/assets/kitchen/k20.jpg",
+      "price": 149
+    },
+	 {
+      "id": 59,
+      "category": "electronics",
+      "review": "5433 reviews",
+      "title": "Coffee Maker",
+      "detail": "Morphy Coffee Maker",
+      "image": "/assets/electronics/e19.jpg",
+      "price": 4690
+    },
+    {
+      "id": 60,
+      "category": "electronics",
+      "review": "4530 reviews",
+      "title": "DVD Palyer",
+      "detail": "Samsung DVD Player",
+      "image": "/assets/electronics/e20.jpg",
+      "price": 8399
+    }
+	]
+}
