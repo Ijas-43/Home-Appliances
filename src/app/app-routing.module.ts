@@ -1,9 +1,10 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { HomeComponent } from './home/home.component';
+
 import { LoginComponent } from './login/login.component';
 import { SignupComponent } from './signup/signup.component';
-import { CartComponent } from './cart/cart.component';  
+import { CartComponent } from './cart/cart.component';
 import { AddressComponent } from './address/address.component';
 import { ContactComponent } from './contact/contact.component';
 import { PaymentComponent } from './payment/payment.component';
@@ -45,7 +46,7 @@ const routes: Routes = [
   {
     path: 'cart' , component: CartComponent
   }
-  
+
 ];
 
 @NgModule({
